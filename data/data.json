@@ -1,0 +1,42 @@
+[
+    {
+        "productName": "car",
+        "price": "29,000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error hic soluta nulla. At nisi alias assumenda",
+        "id": 0,
+        "isAvailable": true,
+        "image": "https://media.istockphoto.com/photos/generic-red-suv-on-a-white-background-side-view-picture-id1157655660?b=1&k=20&m=1157655660&s=612x612&w=0&h=ekNZlV17a3wd_yN9PhHXtIabO_zFo4qipCy2AZRpWUI="
+    },
+    {
+        "productName": "Iphone 14",
+        "price": 1000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error hic soluta nulla. At nisi alias assumenda",
+        "id": 1,
+        "isAvailable": true,
+        "image": "https://imagemobiles.com/wp-content/uploads/2022/09/Apple-iPhone-14-Mobile-Phone-493177757-i-1-1200Wx1200H-414x414.jpg"
+    },
+    {
+        "productName": "Headphone",
+        "price": 20,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error hic soluta nulla. At nisi alias assumenda",
+        "id": 2,
+        "isAvailable": false,
+        "image": "https://www.sony.com/image/6145c1d32e6ac8e63a46c912dc33c5bb?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320"
+    },
+    {
+        "productName": "Mac book air 2",
+        "price": 800,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error hic soluta nulla. At nisi alias assumenda",
+        "id": 3,
+        "isAvailable": true,
+        "image": "https://cdn.mos.cms.futurecdn.net/7PnHfuU8RNxFiGRGL3h9fQ.jpg"
+    },
+    {
+        "productName": "Rolex",
+        "price": 1200,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error hic soluta nulla. At nisi alias assumenda",
+        "id": 4,
+        "isAvailable": false,
+        "image": "https://images.unsplash.com/photo-1619134778706-7015533a6150?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHdhdGNoZXN8ZW58MHx8MHx8&w=1000&q=80"
+    }
+]
